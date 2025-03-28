@@ -9,15 +9,15 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Pedro Costa e Silva
+- Matricula: 891500
+- Proposta de projeto escolhida: Layout estilo YouTube
+- Breve descrição sobre seu projeto: Este projeto tem como objetivo reproduzir de forma simples um layout inspirado no YouTube.
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![CSSpuro](./public/CSSpuro.png) 
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![CSSBoostrap](./public/CSSBootstrap.png)
