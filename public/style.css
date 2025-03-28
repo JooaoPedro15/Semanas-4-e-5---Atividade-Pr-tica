@@ -1,0 +1,15 @@
+/* Customizações mínimas para complementar o Bootstrap */
+body {
+  background: #f9f9f9;
+  color: #333;
+}
+
+.card-title {
+  font-size: 16px;
+  color: #065fd4;
+}
+
+.card-text {
+  font-size: 14px;
+  color: #666;
+}
